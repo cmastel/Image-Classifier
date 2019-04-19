@@ -6,6 +6,8 @@ This project uses PyTorch to develop an image classifier which is able to determ
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+This project will be using this [dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of images.
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
