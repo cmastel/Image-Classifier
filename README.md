@@ -1,6 +1,6 @@
-# Project Title
+# Image Classifier
 
-One Paragraph of project description goes here
+This project uses PyTorch to develop an image classifier which is able to determine the names of flowers in a given image. It is part of the Udacity AI Programming with Python Nanodegree program, and built for that purpose. The first part of the project was to develop the classifier within a Jupyter Notebook environment to ensure it was able to successfully run. The second part of the project was to implement the classifier into a Command Line Application. With the Command Line Application, the user could either Train the classifier or use a saved checkpoint to Predict the name of a flower in a provided image. Within both applications, the user is able to provide a number of parameters, or proceed with the defaults.
 
 ## Getting Started
 
@@ -72,9 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Chris Mastel** - *Initial work* - [ctophet](https://github.com/ctophet)
 
 ## License
 
